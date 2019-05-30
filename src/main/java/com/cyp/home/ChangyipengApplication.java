@@ -9,6 +9,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class ChangyipengApplication {
 
 	public static void main(String[] args) {
+		System.out.println("µÂÂêÎ÷ÑÇ");
 		SpringApplication.run(ChangyipengApplication.class, args);
 	}
 
